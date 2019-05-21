@@ -6,7 +6,7 @@
 title: Iderware
 email: jeff.story@iderware.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Very occasional random thought of Jeff Story
+  Very occasional random thoughts of Jeff Story
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://iderware.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jeffstory
